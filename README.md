@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @Reyzhehal
-- 👀 I’m interested in Python, JavaScript, PHP and Rust.
-- 🌱 I’m currently learning PHP-Wordpress and Vue.js
 - 
