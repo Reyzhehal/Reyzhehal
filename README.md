@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @Reyzhehal
-- 
+- 👋 Hi, I’m Ruslan.
+- 🐍 My favorit programming language is Python.
+- 📖 Here you can see my personal non-profit projects.
