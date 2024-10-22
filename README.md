@@ -1,3 +1,3 @@
-Python Backend & Verse Mapmaker
+Python Backend Developer
 
 ![](https://komarev.com/ghpvc/?username=Reyzhehal&color=blueviolet&style=for-the-badge)
